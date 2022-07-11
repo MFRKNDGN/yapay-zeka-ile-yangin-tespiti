@@ -24,3 +24,5 @@ Projemizi uygularken geliştirmiş olduğumuz sistemi özel olarak tasarlayacağ
 
 
 
+Projemizi hayata geçirebilmek için bir droneyi yaptığımız sistem ile yönetmemiz ve ona sinyal göndererek çeşitli emirler vermemiz gereklidir. Dronenin üzerindeki sistemde bulunan kamera modülü ile yapay zeka kullanarak yangın ve duman görüntüsü taraması yapacağız. Ayrıca dronemizin üzerinde bulunan diğer tespit sensörleri (alev, gz vb.) ile de bu tespitin doğruluğunu saptamaya çalışacağız. Elde edilen bulguları dronenin bulunduğu konum, tespit edilen yerin fotoğrafı, tespit zamanı, ortamda bulunan karbon monoksit vb. gazların yoğunluğu gibi verileri ilgili yerlere bildireceğiz.
+
