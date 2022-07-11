@@ -14,9 +14,10 @@ Bu sistemle yangınları önleyerek akciğerlerimiz olan ağaçlarımızı ve do
 Orman yangınlarının tespiti için günümüzde kullanılan en yaygın çözüm gözetleme kulelerinden ormanların izlemesi veya devriye uçakların orman sahası üzerinde gezmesiyle gerçekleştirilmektedir. Bu yöntemler yangınlara müdahelede saniyelerin bile önemini dikkate aldığımızda yeterli olmadığını görmekteyiz. Bizim Dendron projemizdeki amaç kısa sürede ve uzun vadede etkili olacak bir çözüm olmaktır. Orman yangınları tüm ülkelerin başına gelebilecek afetlerdir ve toplumumuzu ekonomik ve sosyal açıdan etkilemektedir. Yangınların oluşmasına bir çözüm bulamayız ama erken müdahele için en etkili çözümü sunmaktayız. Dendronlarmız yangını tespit eder internet siteleri ve sosyal mesajlaşma platformları üzerinden gerekli mercilere problem konum ile birlikte iletilir. Bu şekilde yangının konumu gerekli yerlere iletilmiş olur.
 
 
-<img src="yontemdiagram.png" width="350" title="Yontem Diagrami">
+<img src="yontemdiagrami.png" width="350" title="Yontem Diagrami">
 <br>
 
+Projemizi uygularken geliştirmiş olduğumuz sistemi özel olarak tasarlayacağımız bir drone üzerine yerleştireceğiz. Bu sistemde kamera modülü ile ateş vb. faktörleri tespit etmeyi, gaz sensörleri ile bölgedeki karbon monoksit vb. gazların yoğunluğunu ölçmeyi, GPS modülü ile ise drone’nin eş zamanlı konumunu aktarmayı planlıyoruz. Bu sistem üzerinde bulunan çeşitli sensörlerle dronun bulunduğu bölgede risk taraması yapacak ve şüpheli bir durum tespiti halinde ilgili yerin konumu, fotoğrafı ve şüphelenilen değerleri sistemimiz üzerinden ilgili yerlere bildirecektir. Sistemimiz tarafından gönderilen sinyallerle dronumuzun kontrollerinin büyük çoğunluğunu otonom olarak gerçekleştireceğiz.
 
 
 
