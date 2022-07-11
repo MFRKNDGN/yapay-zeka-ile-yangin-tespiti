@@ -1,6 +1,6 @@
 # Yapay Zeka Kullanarak Yangın Tespiti
 Bu proje ile tasarladığımız otonom olarak hareket edebilen dronelar ile Yangın Afetlerini önceden tespit etmeyi amaçlıyoruz. Projemiz hâlâ geliştirilme aşamasındadır. 
-Proje Fikri <b>Muhammed Furkan Doğan<b/> tarafından ortaya atılmıştır.
+Proje Fikri <b>Muhammed Furkan Doğan</b> tarafından ortaya atılmıştır.
 Proje hakkındaki her türlü görüş, öneri ve teklifleri bu e-mail adresine yapabilirsiniz: mfd_furkan@mail.ru
   
 
